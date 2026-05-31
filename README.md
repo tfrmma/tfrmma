@@ -14,7 +14,7 @@
 *Market Making · OTC Derivatives · On-Chain Liquidity · Systematic Strategies*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/tahaotc)
-[![Location](https://img.shields.io/badge/Spain-FF0000?style=flat-square&logo=googlemaps&logoColor=white)](#)
+[![Location](https://img.shields.io/badge/Europe-FF0000?style=flat-square&logo=googlemaps&logoColor=white)](#)
 [![Email](https://img.shields.io/badge/fadilrezokt@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:fadilrezokt@gmail.com)
 
 </div>

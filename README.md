@@ -9,9 +9,9 @@
    ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝
 ```
 
-**Algorithmic Trader · Execution Trader · Quantitative Researcher**
+**Algorithmic Trader · Execution Trader**
 
-*Market Making · OTC Derivatives · On-Chain Liquidity · Systematic Strategies*
+*Market Making · OTC Derivatives · On-Chain Liquidity*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/tahaotc)
 [![Location](https://img.shields.io/badge/Europe-FF0000?style=flat-square&logo=googlemaps&logoColor=white)](#)

@@ -108,6 +108,6 @@ Competitive poker background (6 years) sharpened probabilistic decision-making, 
 
 <div align="center">
 
-*Open to relocation · Available for trading desk roles*
+*Available for trading desk roles*
 
 </div>

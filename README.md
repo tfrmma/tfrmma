@@ -25,7 +25,7 @@
 
 Algorithmic and execution trader specializing in **systematic trading strategies**, **market making**, **OTC derivatives**, and **on-chain liquidity provisioning** across CEXs and DEXs. Deep expertise in low-latency execution, order book dynamics, Greeks hedging, and inventory risk management.
 
-Proven track record operating with **high ownership and full autonomy** across live capital environments through extreme volatility regimes. Looking to build or lead a trading desk.
+Operating with **high ownership and full autonomy** across live capital environments through extreme volatility regimes.
 
 ---
 

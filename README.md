@@ -9,12 +9,11 @@
    ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝
 ```
 
-**Algorithmic Trader · Execution Trader**
+**Algorithmic Market Maker · Execution Trader**
 
-*Market Making · OTC Derivatives · On-Chain Liquidity*
+*Perpetuals · OTC Derivatives · On-Chain Liquidity*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/tahaotc)
-[![Location](https://img.shields.io/badge/Europe-FF0000?style=flat-square&logo=googlemaps&logoColor=white)](#)
 [![Email](https://img.shields.io/badge/fadilrezokt@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:fadilrezokt@gmail.com)
 
 </div>
@@ -72,7 +71,7 @@ Operating with **high ownership and full autonomy** across live capital environm
 
 ## 🏆 Notable Achievements
 
-- 🥇 **#1 Global Rank** — [Variational OMNI Leaderboard](https://variational.io) *(Apr 2026)* — superior execution in complex derivative environments
+- 🥇 **#1 Global Rank** — [Variational OMNI Leaderboard](https://variational.io) *(Apr 2026)*
 
 [![Variational OMNI #1](https://img.lightshot.app/g_23sPsSTHSgp-CE1WkGjg.jpg)](https://prnt.sc/Dw7t26jI1Q2e)
 
@@ -87,10 +86,7 @@ Operating with **high ownership and full autonomy** across live capital environm
 `Greeks Hedging (Δ Γ ν)` `Delta-Neutral Strategies` `VaR` `Drawdown Management` `Stress Testing`
 
 **Quant & Dev**
-`Python` `pandas` `numpy` `C++` `Rust` `SQL` `Excel VBA` `Order Book Analytics`
-
-**Platforms**
-`Bloomberg Terminal` `Reuters Eikon` `MT5` `TradingView`
+`Python` `asyncio` `uvloop` `C++` `Rust` `SQL` `lock-free data structures` `Order Book Analytics`
 
 **DeFi & On-Chain**
 `AMM Liquidity Provisioning` `Uniswap` `Balancer` `CoW Swap` `Dune Analytics` `1inch API`
@@ -100,9 +96,9 @@ Operating with **high ownership and full autonomy** across live capital environm
 
 ## 🧠 Decision-Making Philosophy
 
-> Systematic over discretionary. Execution quality over entry timing. Risk management over return maximization. Every edge is probabilistic — manage the distribution, not the outcome.
+> Systematic over discretionary. Execution quality over entry timing. Risk management over return maximization. Every edge is probabilistic, manage the distribution, not the outcome.
 
-Competitive poker background (6 years) sharpened probabilistic decision-making, opponent profiling, and bankroll management under pressure — skills that translate directly into trading.
+Competitive poker background (6 years) sharpened probabilistic decision-making, opponent profiling, and bankroll management under pressure, skills that translate directly into trading.
 
 ---
 

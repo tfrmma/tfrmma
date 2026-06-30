@@ -69,14 +69,6 @@ Operating with **high ownership and full autonomy** across live capital environm
 
 ---
 
-## 🏆 Notable Achievements
-
-- 🥇 **#1 Global Rank** — [Variational OMNI Leaderboard](https://variational.io) *(Apr 2026)*
-
-[![Variational OMNI #1](https://img.lightshot.app/g_23sPsSTHSgp-CE1WkGjg.jpg)](https://prnt.sc/Dw7t26jI1Q2e)
-
----
-
 ## 🛠️ Skills
 
 **Execution & Trading**
